@@ -1,4 +1,4 @@
-# Password-Protector
+# Password-Vault
 A Python based GUI application that would first authenticate yourself with master password
 and further to that will show all the saved password. You can add new passwords in the same screen.
 It would save in the format name - email - password. 
